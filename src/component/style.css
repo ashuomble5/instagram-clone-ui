@@ -1,0 +1,30 @@
+.m-5 {
+  margin: 5px !important;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Grand+Hotel");
+
+.straight-line {
+  background-color: #262626;
+  height: 30px;
+  margin: 16px 16px;
+  width: 1px;
+}
+.flex {
+  display: flex;
+}
+
+.flex > div.flex-middle {
+  flex: 1;
+  display: inline-block;
+}
+
+.logo {
+  margin: 20px 0px;
+  font-size: 35px;
+  font-family: "Grand Hotel", cursive;
+}
+
+.m-r-5 {
+  margin-right: 30px !important;
+}
