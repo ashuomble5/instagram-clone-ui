@@ -28,3 +28,11 @@
 .m-r-5 {
   margin-right: 30px !important;
 }
+
+.no-width {
+  width: 100% !important;
+}
+
+.m-t-5 {
+  margin-top: 5%;
+}
