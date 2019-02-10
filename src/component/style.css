@@ -48,3 +48,16 @@
 .full-width {
   width: 100%;
 }
+.circle {
+  width: 60px !important;
+  border-radius: 3.25rem !important;
+  height: 60px !important;
+}
+.left-margin {
+  margin-left: 7em !important;
+}
+.text-strong {
+  color: black !important;
+  text-decoration: none;
+  font-weight: bold !important;
+}
