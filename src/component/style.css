@@ -61,3 +61,14 @@
   text-decoration: none;
   font-weight: bold !important;
 }
+
+.float-right {
+  float: right !important;
+}
+
+.float-left {
+  float: left !important;
+}
+.follow-color {
+  color: #3897f0 !important;
+}
