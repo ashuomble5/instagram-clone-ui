@@ -21,7 +21,7 @@ class Posts extends React.Component {
         </div>
         <div className="content">
           <span className="right floated">
-            <i class="bookmark outline icon" />
+            <i className="bookmark outline icon" />
           </span>
           {/* <i className="comment icon" />3 comments */}
           <i className="heart outline icon" />
@@ -37,19 +37,19 @@ class Posts extends React.Component {
           <span>
             Liked by <b>evilsempire</b> and <b>54 others</b>
           </span>
-          <p>
+          <div>
             <strong>evilsempire</strong> If there’s a will there’s a wave.!
             <span className="color-blue">
               #beach#beautifuldestinations#goodvibes#oceanwaves#sunsetbeach#happytime.
             </span>
             <div className="meta font-10">9 MINUTES AGO</div>
-          </p>
+          </div>
         </div>
 
         <div className="extra content">
           <div className="ui large transparent right icon input full-width">
             <input type="text" placeholder="Add Comment..." />
-            <i class="ellipsis horizontal icon right floated" />
+            <i className="ellipsis horizontal icon right floated" />
           </div>
         </div>
       </div>

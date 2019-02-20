@@ -72,3 +72,8 @@
 .follow-color {
   color: #3897f0 !important;
 }
+
+.scroller {
+  overflow-y: scroll;
+  height: 150px;
+}

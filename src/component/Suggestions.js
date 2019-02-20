@@ -13,12 +13,12 @@ const Suggestions = () => {
             alt="user"
             src="https://semantic-ui.com/images/avatar/large/elliot.jpg"
           />
-          <div class="content">
-            <a class=" text-strong" style={{ color: "black !important" }}>
+          <div className="content">
+            <a className=" text-strong" style={{ color: "black !important" }}>
               Utkarsh Joshi
             </a>
 
-            <div class="description">10 mins ago</div>
+            <div className="description">10 mins ago</div>
           </div>
           <div className="ui float-right right floated follow-color">
             <b>Follow</b>
